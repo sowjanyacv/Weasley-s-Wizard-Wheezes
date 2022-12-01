@@ -4,6 +4,18 @@ This project was built for me to learn tailwind. You can use this code to build 
 
 You can fork this repo. Please give proper credit by linking back to [https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes](https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes), Thanks.
 
+You can fork this repo. Please give proper credit by linking back to [https://weasley-wizard-wheezes.netlify.app/](https://weasley-wizard-wheezes.netlify.app/), Thank You.
+
+![Mobile Home Page](/Mobile1.png "Mobile Home Page")
+
+![Mobile About Page](/Mobile2.png "Mobile About Page")
+
+![Desktop Home Page](/Desktop1.png "Desktop Home Page")
+
+![Desktop Support Page](/Desktop2.png "Desktop Support Page")
+
+The images used in the website doesn't belong to me, nor do I make any money from this website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
