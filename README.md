@@ -2,8 +2,6 @@
 
 This project was built for me to learn tailwind. You can use this code to build your own website, but with attribution.
 
-You can fork this repo. Please give proper credit by linking back to [https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes](https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes), Thanks.
-
 You can fork this repo. Please give proper credit by linking back to [https://weasley-wizard-wheezes.netlify.app/](https://weasley-wizard-wheezes.netlify.app/), Thank You.
 
 ![Mobile Home Page](/Mobile1.png "Mobile Home Page")
